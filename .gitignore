@@ -1,0 +1,12 @@
+*.npy
+*.csv
+*.jpg
+*.jpeg
+*.png
+*.vscode
+*.log
+*.err
+*.out
+**/wandb
+**/__pycache__
+**/log
