@@ -60,7 +60,7 @@ If you use FunctaFormer in your research, please cite:
 }
 ```
 ## License
-This project is licensed under the MIT License. See LICENSE for details.
+This project is open-source under the MIT License, meaning you're free to use, modify, and distribute it with proper attribution.
 
 ## Contact and Acknowledgements
 - Flavio Schenker (maintainer, Model implementation)
